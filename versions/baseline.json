@@ -1,7 +1,7 @@
 {
   "default": {
     "empty-package": {
-      "baseline": "2",
+      "baseline": "3",
       "port-version": 0
     }
   }
